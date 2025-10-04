@@ -2,6 +2,31 @@
 A simple collection of resources for il2cpp modding. Here you’ll find links to useful repositories, tools, and guides to help you get started or explore deeper into VR modding. This repo is meant to serve as a hub — easy to navigate, community-friendly, and always growing with new resources.
 
 
+
+# Decompliers
+
+https://github.com/mkcs121/APK-Easy-Tool/releases
+
+
+# Editing
+
+unity data editing
+https://github.com/nesrak1/UABEA/releases
+
+
+HXD editing
+https://mh-nexus.de/en/hxd/
+
+
+
+
+
+
+
+
+
+
+
 ## LIBARIES
 https://bynamemodding.github.io
 https://github.com/Toxocious/Aetherim
